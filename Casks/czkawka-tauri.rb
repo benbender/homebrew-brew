@@ -1,6 +1,6 @@
 cask "czkawka-tauri" do
-  version "1.0.4"
-  sha256 "1d19c4980c2843fde4ff8d33e3ef8abdfbe0812d876ab1da12ca4cafe0e21edb"
+  version "1.0.5"
+  sha256 "cbd8c1460eabdde9ffeb8ecad5e61593484fb7086dcddb5ad2fe25ff0367fad2"
 
   url "https://github.com/shixinhuang99/czkawka-tauri/releases/download/#{version}/CzkawkaTauri_#{version}_universal.dmg"
   name "CzkawkaTauri"
